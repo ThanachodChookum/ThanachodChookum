@@ -1,83 +1,88 @@
-# Thanachod
-Personal resume of a Digital Science and Technology student, highlighting education, projects, and basic skills in web development, business analysis, and modern technologies.
+# 👨‍💻✨ Thanachod Chookum
 
 🎓 **Digital Science and Technology Student**  
-📍 Kasetsart University, Sriracha Campus
+📍 *Kasetsart University, Sriracha Campus*
+
+🚀 *Personal resume highlighting education, projects, and skills in*  
+💻 **Web Development** | 📊 **Business Analysis** | 🤖 **Modern Technologies**
 
 ---
 
-## 👤 Profile
-I am a Digital Science and Technology student with basic coding skills and a strong interest in software development, business analysis, and modern technologies.  
-I enjoy learning new tools, practicing programming, and solving technical problems.  
-I am eager to gain real-world experience through hands-on projects, teamwork, and internships.
+## 👤✨ About Me
+💡 I am a Digital Science and Technology student with basic coding skills and a strong interest in  
+**software development**, **business analysis**, and **modern technologies**.  
+
+🧠 I enjoy learning new tools, practicing programming, and solving technical problems.  
+🤝 I am eager to gain real-world experience through **hands-on projects**, **teamwork**, and **internships**.
 
 ---
 
-## 🎯 Objective
-Seeking an internship in **Digital Technology / Business Analysis**, where I can apply and develop my coding, analytical, and problem-solving skills, gain hands-on experience, and contribute to data-driven and innovative projects.
+## 🎯🎯 Career Objective
+🎯 Seeking an internship in **Digital Technology / Business Analysis** where I can:
+- 🧩 Apply and improve my coding and analytical skills  
+- 🛠 Gain hands-on industry experience  
+- 📈 Contribute to data-driven and innovative projects  
 
 ---
 
-## 🎓 Education
-**Bachelor of Science (Digital Science and Technology)**  
-Kasetsart University, Sriracha Campus  
-📅 2023 – Present
+## 💼🔥 Projects
 
-**English–Mathematics Program**  
-Sarawittaya School
-
----
-
-## 💼 Projects
-
-### 🥗 Fit & Well AI: Smart Eating for Chronic Conditions and Fitness (2024)
-- Developed a web application to calculate calories and track exercise  
-- Implemented AI-based meal and water recommendations  
-- Designed an intuitive UI and practiced front-end development  
-- Improved teamwork, problem-solving, and project development skills  
-
-### ✅ SMART PRIORITYLIFE – Task Management System (2024)
-- Built a task management web app for assignments and to-do lists  
-- Implemented task creation, deadlines, and reminders  
-- Practiced front-end development and logical task handling  
-
-### 📦 Simple Stock Management System (2024)
-- Developed a basic web app to add, update, and remove products  
-- Practiced data handling logic and front-end development  
-- Strengthened organizational and problem-solving skills  
+### 🥗🤖 Fit & Well AI  
+**Smart Eating for Chronic Conditions and Fitness (2024)**
+- 🧮 Calculated calories and tracked exercise activities  
+- 🤖 Implemented AI-based meal and water recommendations  
+- 🎨 Designed an intuitive UI with front-end development  
+- 🤝 Improved teamwork and problem-solving skills  
 
 ---
 
-## 🛠 Technical Skills
-- **Programming / Web**: HTML, CSS, JavaScript, PHP, Python (Basic)
-- **Database**: SQL (Basic)
-- **UX/UI Design**: Basic
-- **Networking & Cybersecurity**: Basic
-- **Business Analysis**: Basic
-- **Tools**: Microsoft Office
+### ✅📋 SMART PRIORITYLIFE  
+**Task Management System (2024)**
+- 📝 Built a task management web app for assignments and to-do lists  
+- ⏰ Implemented deadlines and reminder features  
+- 💻 Practiced front-end development and logical task handling  
 
 ---
 
-## 🤝 Soft Skills
-- Communication  
-- Teamwork  
-- Problem-Solving  
-- Adaptability  
-- Time Management  
-- Critical Thinking  
-- Emotional Intelligence  
+### 📦📊 Simple Stock Management System (2024)
+- ➕ Added, ✏️ updated, and ❌ removed product data  
+- 🗃 Practiced data handling logic and front-end development  
+- 📈 Strengthened organization and project development skills  
 
 ---
 
-## 🌐 Languages
-- Thai (Native)  
-- English (Intermediate)
+## 🛠⚡ Technical Skills
+
+### 💻 Programming & Web
+- 🌐 HTML | 🎨 CSS | ⚡ JavaScript  
+- 🐘 PHP *(Basic)* | 🐍 Python *(Basic)*  
+
+### 🗄 Database
+- 🧾 SQL *(Basic)*  
+
+### 🧩 Other Skills
+- 🎨 UX/UI Design *(Basic)*  
+- 🌐 Networking *(Basic)*  
+- 🔐 Cybersecurity *(Basic)*  
+- 📊 Business Analysis *(Basic)*  
+- 📎 Microsoft Office  
 
 ---
 
-## 📫 Contact
-- 📧 Email: thanachod.c@ku.th  
-- 📞 Phone: 099-494-9669  
-- 📍 Bangkok, Thailand  
+## 🤝💖 Soft Skills
+🗣 Communication  
+👥 Teamwork  
+🧠 Problem-Solving  
+🔄 Adaptability  
+⏱ Time Management  
+🎯 Critical Thinking  
+💗 Emotional Intelligence  
+
+---
+
+## 📫📬 Contact Information
+📧 **Email:** thanachod.c@ku.th  
+📞 **Phone:** 099-494-9669  
+📍 **Location:** Bangkok, Thailand  
 
 ---
