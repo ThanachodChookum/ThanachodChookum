@@ -27,7 +27,7 @@
 
 ## 💼🔥 Projects
 
-### 🥗🤖 Fit & Well AI  
+### 🥗🤖 Fit Me  
 **Smart Eating for Chronic Conditions and Fitness (2024)**
 - 🧮 Calculated calories and tracked exercise activities  
 - 🤖 Implemented AI-based meal and water recommendations  
